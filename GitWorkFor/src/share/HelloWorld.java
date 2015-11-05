@@ -6,5 +6,8 @@ public class HelloWorld {
 		
 		//Ok, so here I made a change
 		System.out.println("first change");
+		
+		//Ok, so I made a second change
+		System.out.println("second change");
 	}
 }
